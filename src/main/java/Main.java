@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Четвертая ветка");
         String s = "Надпись номер 1";
 
-        System.out.println("Четвертая ветка");
+        System.out.println("Четвертая ветка!");
         System.out.println(s);
         System.out.println(s);
         System.out.println(s);
